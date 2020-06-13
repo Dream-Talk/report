@@ -1,0 +1,34 @@
+00:52:48.814 [restartedMain] INFO  com.jiangrongxin.server.ServerApplication - Starting ServerApplication on admin-PC with PID 13476 (D:\IdeaWorkSpace\reports\server\target\classes started by admin in D:\IdeaWorkSpace\reports)
+00:52:49.032 [restartedMain] INFO  com.jiangrongxin.server.ServerApplication - The following profiles are active: dev
+00:52:52.462 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+00:52:52.462 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+00:52:52.463 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+00:52:52.594 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+00:52:54.042 [restartedMain] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+00:52:54.505 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+00:52:54.545 [restartedMain] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+00:52:54.573 [restartedMain] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+00:52:54.623 [restartedMain] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+00:52:54.764 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_1
+00:52:54.787 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findAllUsingGET_1
+00:52:54.791 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByIdUsingGET_1
+00:52:54.795 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_2
+00:52:54.802 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_3
+00:52:54.833 [restartedMain] INFO  com.jiangrongxin.server.ServerApplication - Started ServerApplication in 6.64 seconds (JVM running for 13.02)
+01:05:52.923 [restartedMain] INFO  com.jiangrongxin.server.ServerApplication - Starting ServerApplication on admin-PC with PID 13476 (D:\IdeaWorkSpace\reports\server\target\classes started by admin in D:\IdeaWorkSpace\reports)
+01:05:52.925 [restartedMain] INFO  com.jiangrongxin.server.ServerApplication - The following profiles are active: dev
+01:05:56.407 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+01:05:56.408 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+01:05:56.408 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+01:05:56.445 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+01:05:57.168 [restartedMain] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+01:05:57.460 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+01:05:57.578 [restartedMain] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+01:05:57.580 [restartedMain] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+01:05:57.589 [restartedMain] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+01:05:57.609 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_1
+01:05:57.616 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findAllUsingGET_1
+01:05:57.620 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByIdUsingGET_1
+01:05:57.625 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_2
+01:05:57.628 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_3
+01:05:57.636 [restartedMain] INFO  com.jiangrongxin.server.ServerApplication - Started ServerApplication in 4.97 seconds (JVM running for 795.807)

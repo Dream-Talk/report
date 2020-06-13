@@ -1,0 +1,21 @@
+08:47:53.143 [restartedMain] INFO  com.jiangrongxin.server.ServerApplication - Starting ServerApplication on admin-PC with PID 15272 (D:\IdeaWorkSpace\reports\server\target\classes started by admin in D:\IdeaWorkSpace\reports)
+08:47:53.158 [restartedMain] INFO  com.jiangrongxin.server.ServerApplication - The following profiles are active: dev
+08:47:55.236 [restartedMain] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+08:47:55.270 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+08:47:56.334 [restartedMain] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+08:47:56.905 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.1.0.Final
+08:47:56.914 [restartedMain] INFO  org.xnio - XNIO version 3.8.0.Final
+08:47:56.925 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.0.Final
+08:47:56.971 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+08:47:57.027 [restartedMain] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+08:47:57.054 [restartedMain] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+08:47:57.099 [restartedMain] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+08:47:57.263 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_1
+08:47:57.279 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findAllUsingGET_1
+08:47:57.283 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByIdUsingGET_1
+08:47:57.287 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_2
+08:47:57.292 [restartedMain] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_3
+08:47:57.319 [restartedMain] INFO  com.jiangrongxin.server.ServerApplication - Started ServerApplication in 5.086 seconds (JVM running for 8.13)
+08:48:09.850 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:48:10.006 [XNIO-1 task-1] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Starting...
+08:48:10.362 [XNIO-1 task-1] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Start completed.

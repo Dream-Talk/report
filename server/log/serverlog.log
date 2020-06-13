@@ -1,0 +1,12 @@
+08:37:41.991 [main] INFO  com.jiangrongxin.server.ServerApplicationTests - Starting ServerApplicationTests on admin-PC with PID 11880 (started by admin in D:\IdeaWorkSpace\reports\server)
+08:37:41.998 [main] INFO  com.jiangrongxin.server.ServerApplicationTests - The following profiles are active: dev
+08:37:47.275 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+08:37:48.464 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+08:37:48.522 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+08:37:48.576 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+08:37:48.791 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_1
+08:37:48.809 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findAllUsingGET_1
+08:37:48.814 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByIdUsingGET_1
+08:37:48.819 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_2
+08:37:48.824 [main] INFO  springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: findByNameUsingGET_3
+08:37:48.866 [main] INFO  com.jiangrongxin.server.ServerApplicationTests - Started ServerApplicationTests in 7.721 seconds (JVM running for 10.507)

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reports.iml" filepath="$PROJECT_DIR$/reports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbatch/springbatch.iml" filepath="$PROJECT_DIR$/springbatch/springbatch.iml" />
+    </modules>
+  </component>
+</project>
